@@ -8,6 +8,9 @@ Sign up on https://ifttt.com and create Applet
 2. Send Webhook [That]:
 + look for Webhook and Choose Post Method 
 
+For Further information:
+* Explore the code in basic-flask-app/app.py
+
 ## on Jetson Nano
 * You need to install apache server " Don't forget to allow it throught the firewall"
 * Add a rule in your router for Port Forwarding to the jetson
